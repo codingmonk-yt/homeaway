@@ -580,3 +580,11 @@ const CATEGORY = [
   },
 ];
 ```
+
+### Simplebar
+
+```js
+
+import "simplebar-react/dist/simplebar.min.css";
+
+```
