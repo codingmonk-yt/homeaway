@@ -477,3 +477,106 @@ span.flatpickr-weekday,
 }
 
 ```
+
+### CATEGORY LIST
+
+```js
+
+const CATEGORY = [
+  {
+    key: 0,
+    icon: <PiIsland size={20} />,
+    label: "Islands",
+  },
+  {
+    key: 1,
+    icon: <FaRegSnowflake size={20} />,
+    label: "Arctic",
+  },
+  {
+    key: 2,
+    icon: <PiFarm size={20} />,
+    label: "Farms",
+  },
+  {
+    key: 3,
+    icon: <MdOutlinePool size={20} />,
+    label: "Amazing pools",
+  },
+  {
+    key: 4,
+    icon: <GiTreehouse size={20} />,
+    label: "Treehouses",
+  },
+  {
+    key: 5,
+    icon: <HiHomeModern size={20} />,
+    label: "Luxe",
+  },
+  {
+    key: 6,
+    icon: <MdVilla size={20} />,
+    label: "Mansions",
+  },
+  {
+    key: 7,
+    icon: <FaUmbrellaBeach size={20} />,
+    label: "Beachfronts",
+  },
+  {
+    key: 8,
+    icon: <FaFireAlt size={20} />,
+    label: "Trending",
+  },
+  {
+    key: 9,
+    icon: <PiIslandFill size={20} />,
+    label: "Lakefront",
+  },
+  {
+    key: 10,
+    icon: <MdCabin size={20} />,
+    label: "Cabins",
+  },
+  {
+    key: 11,
+    icon: <MdCastle size={20} />,
+    label: "Castle",
+  },
+  {
+    key: 12,
+    icon: <GiMountainCave size={20} />,
+    label: "Caves",
+  },
+  {
+    key: 13,
+    icon: <PiBarn size={20} />,
+    label: "Barns",
+  },
+  {
+    key: 14,
+    icon: <PiCactusFill size={20} />,
+    label: "Desert",
+  },
+  {
+    key: 15,
+    icon: <PiWindmill size={20} />,
+    label: "Windmill",
+  },
+  {
+    key: 16,
+    icon: <GiGrapes size={20} />,
+    label: "Wineyard",
+  },
+  {
+    key: 17,
+    icon: <GiCampingTent size={20} />,
+    label: "Camping",
+  },
+  {
+    key: 18,
+    icon: <FaCity size={20} />,
+    label: "Top Cities",
+  },
+];
+```
